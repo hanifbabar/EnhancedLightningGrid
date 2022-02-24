@@ -1036,10 +1036,6 @@
         <name>ModifyMetadata</name>
     </userPermissions>
     <userPermissions>
-        <enabled>false</enabled>
-        <name>ModifySecureAgents</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>true</enabled>
         <name>NewReportBuilder</name>
     </userPermissions>
