@@ -67,8 +67,7 @@
     <idMappings>
         <developerEntityId>00B58000004ZiQx</developerEntityId>
         <developerName>SDG__c.All</developerName>
-    </idMappings>
-    <namespacePrefix>sortablegrid</namespacePrefix>
+    </idMappings>   
     <orgFeaturePayloads>
         <dependencyDetectionType>A</dependencyDetectionType>
         <feature>Workflow</feature>
