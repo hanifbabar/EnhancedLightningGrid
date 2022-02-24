@@ -820,10 +820,6 @@
         <name>ListEmailSend</name>
     </userPermissions>
     <userPermissions>
-        <enabled>false</enabled>
-        <name>LtngPromoReserved01UserPerm</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>true</enabled>
         <name>ManageAnalyticSnapshots</name>
     </userPermissions>
